@@ -1,3 +1,10 @@
+#$ TITLE: gabruzzz OSD
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: OSD
+#$ AUTHOR: gabruzzz
+
 set osd_warn_rssi_dbm = ON
 set osd_vbat_pos = 417
 set osd_rssi_pos = 33

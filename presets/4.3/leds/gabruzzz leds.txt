@@ -1,3 +1,10 @@
+#$ TITLE: gabruzzz led
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: LED
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: PROGRAMMABLE LED
+#$ AUTHOR: gabruzzz
+
 # led
 led 0 0,0::CV:13
 led 1 1,0::CV:13

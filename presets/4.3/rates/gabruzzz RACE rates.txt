@@ -1,3 +1,10 @@
+#$ TITLE: gabruzzz RACE rates 
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: RATES
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: Race Rates
+#$ AUTHOR: gabruzzz
+
 # rateprofile 0
 set rates_type = ACTUAL
 set roll_rc_rate = 20
