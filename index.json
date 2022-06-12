@@ -207,6 +207,7 @@
       "OP400",
       "OpenVTx",
       "OSD",
+      "other",
       "OVX300",
       "OVX303",
       "Passthrough",
@@ -414,6 +415,21 @@
         "utility"
       ],
       "author": "Daniel Appel / Tehllama",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/gabruzzz other setup.txt",
+      "hash": "8d163d8613d0bc136c13b533f0bf58899e952506095de920505fb72fef27ee9c",
+      "title": "gabruzzz other setup",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "other"
+      ],
+      "author": "gabruzzz",
       "priority": 0
     },
     {
