@@ -5,16 +5,18 @@
 #$ KEYWORDS: other
 #$ AUTHOR: gabruzzz
 
-set min_check = 1010
-set max_check = 1990
+set min_check = 1005
+set max_check = 1995
 set serialrx_provider = CRSF
 set dshot_bidir = ON
 set report_cell_voltage = ON
 set rpm_filter_fade_range_hz = 100
-set name = gabruzzz
 
-set pidsum_limit = 1000
-set pidsum_limit_yaw = 1000
 set dyn_idle_min_rpm = 35
 set crsf_use_rx_snr = ON
 set motor_pwm_protocol = DSHOT600
+
+set extra_osd_use_quick_menu = ON
+set extra_100_throttle = A CIODO!
+set extra_turtle_mode_warning = FEMO INVERSION
+set extra_armed_warning = DAGHE GAS
