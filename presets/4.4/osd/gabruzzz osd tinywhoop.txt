@@ -1,0 +1,23 @@
+#$ TITLE: gabruzzz Tinywhoop OSD
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: OSD
+#$ AUTHOR: gabruzzz
+
+set osd_vbat_pos = 2391
+set osd_rssi_pos = 322
+set osd_tim_2_pos = 290
+set osd_flymode_pos = 305
+set osd_vtx_channel_pos = 14370
+set osd_crosshairs_pos = 2254
+set osd_current_pos = 342
+set osd_craft_name_pos = 14666
+set osd_pilot_name_pos = 14698
+set osd_stat_bitmask = 1664
+set vtx_band = 5
+set vtx_channel = 8
+set vtx_power = 1
+set vtx_freq = 5917
+set craft_name = ', gabruzzz
+set pilot_name = ![

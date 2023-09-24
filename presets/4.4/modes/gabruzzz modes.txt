@@ -16,3 +16,6 @@ aux 6 39 2 1950 2050 0 0
 
 # adjrange
 adjrange 0 0 0 1950 2050 29 2 0 0
+
+# feature
+feature TELEMETRY
