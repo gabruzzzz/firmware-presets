@@ -1,0 +1,11 @@
+#$ TITLE: gabruzzz HDZ powerdown switch
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: VTX
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: VTX
+#$ AUTHOR: gabruzzz
+
+# vtx
+vtx 0 2 0 0 3 1700 2100
+vtx 1 2 0 0 1 1300 1700
+vtx 2 2 0 0 1 900 1300
