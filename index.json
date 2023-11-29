@@ -334,7 +334,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/gabruzzz modes.txt",
-      "hash": "31de162a4da359293d9bc3ce3d2ba2c591958d52fac66069428fd68a189b709f",
+      "hash": "810384eb3fa2d28dc15433e0de5721adb8c9408d20f776672691b60b59487906",
       "title": "gabruzzz modes",
       "firmware_version": [
         "4.3"
@@ -420,7 +420,7 @@
     },
     {
       "fullPath": "presets/4.3/other/gabruzzz other setup.txt",
-      "hash": "8d163d8613d0bc136c13b533f0bf58899e952506095de920505fb72fef27ee9c",
+      "hash": "22ad6875a3f8ef027e3868095f7b6f7f0544262ea78a1b4966bf4bfb869d4a89",
       "title": "gabruzzz other setup",
       "firmware_version": [
         "4.3"
@@ -1145,7 +1145,7 @@
     },
     {
       "fullPath": "presets/4.4/modes/gabruzzz modes.txt",
-      "hash": "7d4fd2d7a9cc9260439e31faced80f66a78c83d03866f9940b13504c83f607ed",
+      "hash": "96cfb204dc7b5f06286dd3823fe216ff8e8fad5b91f6ef652bec617de4b48c84",
       "title": "gabruzzz modes",
       "firmware_version": [
         "4.4"
@@ -1173,6 +1173,21 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/gabruzzz osd tinywhoop.txt",
+      "hash": "5b377e6b7fe6ac697f621d4e24887e5cd72fe88b6c8e6e33b49cbcfdc2df8f60",
+      "title": "gabruzzz Tinywhoop OSD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "gabruzzz",
       "priority": 0
     },
     {
@@ -1231,7 +1246,7 @@
     },
     {
       "fullPath": "presets/4.4/other/gabruzzz other setup.txt",
-      "hash": "c758dc20bcead1f2ebf3f775cf82a2329ae1765335e4cfa10fad03efdfa2c53c",
+      "hash": "2581aa66d401b2e428ca3a35b75b38d15f02e356008f4054aa37cf202f9fd87d",
       "title": "gabruzzz other setup",
       "firmware_version": [
         "4.4"
@@ -1425,7 +1440,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/gabruzzz RACE rates.txt",
-      "hash": "bc6cad26494710c4d4c1b9addf8f4fc922610467fa521ccc676ce4cf4a90ab00",
+      "hash": "8fa08318c82edf2859e56d352097df51c9c8ea268608bfac01dc1a61fd340576",
       "title": "gabruzzz RACE rates",
       "firmware_version": [
         "4.4"
@@ -1582,6 +1597,21 @@
         "IRC TRAMP"
       ],
       "author": "MrAlucardDante",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/vtx/gabruzzz_HDZERO_vtx_pitmode.txt",
+      "hash": "903023476c155cad0bb409e502093cadb8f3f14f159615deec0b3e7211ab0dd3",
+      "title": "gabruzzz HDZ powerdown switch",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "VTX"
+      ],
+      "author": "gabruzzz",
       "priority": 1000000
     },
     {
