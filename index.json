@@ -136,7 +136,8 @@
       "3.5",
       "4.2",
       "4.3",
-      "4.4"
+      "4.4",
+      "4.5"
     ],
     "category": [
       "FILTERS",
@@ -1145,7 +1146,7 @@
     },
     {
       "fullPath": "presets/4.4/modes/gabruzzz modes.txt",
-      "hash": "96cfb204dc7b5f06286dd3823fe216ff8e8fad5b91f6ef652bec617de4b48c84",
+      "hash": "31aee9592cf0418068711e1264ef60ee1a0d626b9eee5fbcbaf82795badee2bf",
       "title": "gabruzzz modes",
       "firmware_version": [
         "4.4"
@@ -1601,7 +1602,7 @@
     },
     {
       "fullPath": "presets/4.4/vtx/gabruzzz_HDZERO_vtx_pitmode.txt",
-      "hash": "903023476c155cad0bb409e502093cadb8f3f14f159615deec0b3e7211ab0dd3",
+      "hash": "afe93dd24186c570e3dadf154d845ca4b96d61660b3d87b6deafa22ff63d8de9",
       "title": "gabruzzz HDZ powerdown switch",
       "firmware_version": [
         "4.4"
@@ -1894,6 +1895,832 @@
     },
     {
       "fullPath": "presets/4.4/vtx/Unify_Pro_Nano_SA2_0_lite.txt",
+      "hash": "40ad77766336eca6fb8070e8731678ec29f9cf964cfeb2833de9a2d1f1e1e75d",
+      "title": "TBS Unify Pro Nano (Not Pro32 Nano) SA 2.0 lite",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "tbs",
+        "unify pro",
+        "HV",
+        "SA 2.0 lite"
+      ],
+      "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/filters/defaults.txt",
+      "hash": "5f0251a0d63a06c26dcd18ad8e067761fd264e360658c135ec0f157445e5bfd3",
+      "title": "Default 4.3 Filter settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "FILTERS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "filter",
+        "filters",
+        "reset"
+      ],
+      "author": "Betaflight",
+      "priority": 100
+    },
+    {
+      "fullPath": "presets/4.5/leds/defaults.txt",
+      "hash": "c1dc1b69bd7b001253f05b56f3f6c3d60e93615c718f30a3b815846f445d1f6c",
+      "title": "Default 4.3 LED settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "LEDS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "leds"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/leds/gabruzzz leds.txt",
+      "hash": "c0e014e8c8eae5ead01fd11bbdcac63f9ba48761c9c59eeacbd49afd2b8b7378",
+      "title": "gabruzzz led",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "LEDS",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "PROGRAMMABLE LED"
+      ],
+      "author": "gabruzzz",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/modes/defaults.txt",
+      "hash": "16a19e27a46efcd9f86d56f17e8fe82356921399cc0c5502e257e33ef8c321c3",
+      "title": "Default 4.3 Modes and Adjustment settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/modes/gabruzzz modes.txt",
+      "hash": "142219b507254124c880c11fbf99728232c8b7dfb0ebe7b91a158a7e4626cd42",
+      "title": "gabruzzz modes",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "MODES"
+      ],
+      "author": "gabruzzz",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/osd/defaults.txt",
+      "hash": "36eb8ae097d0362030b297477c971280aad5562ac512a3f7ffa91949ed56db82",
+      "title": "Default 4.3 OSD settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/osd/gabruzzz osd tinywhoop.txt",
+      "hash": "b1c53deacc57bf8f2e50b5acb6c033f73886db26fc10967ed38f39afd410eee1",
+      "title": "gabruzzz Tinywhoop OSD",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "gabruzzz",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/osd/gabruzzz osd.txt",
+      "hash": "dcf190c8f0eee92d70e395e8ac761ff453b0a19d0590595e40f1015cf55a590c",
+      "title": "gabruzzz OSD",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "gabruzzz",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/blackbox_disable.txt",
+      "hash": "71fc4b4cc44366fbbd91ad1aaf882cddd103fae91c4230988a5ebbb67b6bac5d",
+      "title": "4.3 Blackbox disable settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "blackbox",
+        "logging",
+        "log",
+        "disable",
+        "sugarK"
+      ],
+      "author": "sugarK",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/ELRS_Passthrough.txt",
+      "hash": "fcee0c30a390f30b0ef92dbba0cc15285674d4c9fdab23a0b469753d2efeaa9a",
+      "title": "ExpressLRS Passthrough Betaflight Settings",
+      "firmware_version": [
+        "3.5",
+        "4.2",
+        "4.3"
+      ],
+      "status": "OFFICIAL",
+      "category": "OTHER",
+      "keywords": [
+        "ELRS",
+        "Passthrough",
+        "Configure",
+        "utility"
+      ],
+      "author": "Daniel Appel / Tehllama",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/gyroflow_min_blackbox.txt",
+      "hash": "15c71e564d549b8e3abd80026c83ff17241606137af32dd5a7b6f42ee228cc4c",
+      "title": "Gyroflow minimum settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "gyroflow",
+        "blackbox",
+        "log",
+        "DDC",
+        "Acrobaix",
+        "Garban"
+      ],
+      "author": "Garban",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/reset_blackbox.txt",
+      "hash": "30dc088a9a24dbbbea774d4d23eb29be85da9f4a78844e23e8b4ae7ff49bd090",
+      "title": "Reset 4.3 Blackbox settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "blackbox",
+        "logging",
+        "log"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/reset_camera_control.txt",
+      "hash": "837147e19b29bed6e3d6ab21d7d9bd291f8b38f9a378bd9b2ba075be7275fb0a",
+      "title": "Reset Camera Control settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "names",
+        "camera",
+        "control",
+        "camera_control"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/reset_gps.txt",
+      "hash": "08a6638077cc4246ea23e7bfbb9d4759b31c0243a0f326b7379270039bd3a773",
+      "title": "Reset GPS settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "GPS"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/reset_launch_mode.txt",
+      "hash": "e4a11824ea2e2426160e68a161ffc15ecb2f6d2436aeb84d76967c86f11ed491",
+      "title": "Reset Launch Mode settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "names",
+        "launch",
+        "launch_mode"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/reset_names.txt",
+      "hash": "84a26fc8b78aefb8e4a9b0c01684ea8d207b35d0332edc3118885d60854a18c9",
+      "title": "Reset 4.3 Names",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "names",
+        "profile"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/reset_servo.txt",
+      "hash": "4b54c73d5472a403fc0f15ebcef2951ada94a5b5ecd5111c31e7f1ee494d00ec",
+      "title": "Reset 4.3 Stats",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset statistics",
+        "stats"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/reset_stats.txt",
+      "hash": "557798e6885b64e7f3a238fc9d22ae3c61300b3d977c113ef14a4d74f38f0a84",
+      "title": "Reset 4.3 Stats",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset statistics",
+        "stats"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/rates/defaults.txt",
+      "hash": "9d063433102e8340d3d0ad396f6dc998c7030c0b9ecc4bb2a6c5b86a5def07fe",
+      "title": "Default rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "rates",
+        "actual"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/rates/gabruzzz FREESTYLE rates.txt",
+      "hash": "a285b640774e6de453202c194ea037b41bf17d6439e1d54c254bbcfa623105fc",
+      "title": "gabruzzz FREESTYLE rates",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Freestyle Rates"
+      ],
+      "author": "gabruzzz",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.5/rates/gabruzzz RACE rates.txt",
+      "hash": "26a613e5fe5d7f618f0193fbf3bc4e41c19a866303e3ff3fc5c9a2c6d40f3e30",
+      "title": "gabruzzz RACE rates",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Race Rates"
+      ],
+      "author": "gabruzzz",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.5/rc_link/defaults.txt",
+      "hash": "dd9a493fb69537b8b495fbfa6f39477d69dba0c2538a2f2de68aa5a469616f05",
+      "title": "Reset RC related settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "Rx",
+        "RC",
+        "reset",
+        "rc link",
+        "rc_link",
+        "smoothing",
+        "rc_smoothing"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/rc_link/reset_to_defaults.txt",
+      "hash": "8b88664102911f576820ad482c5680a61e1c3c0065df7be544d84ebeefe31362",
+      "title": "Reset ALL RC link related settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RC_LINK",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "rc link",
+        "rc_link"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/tune/defaults.txt",
+      "hash": "e0d4f600277f68d45120b00656d994af8e0492cdfc7f14f6ac2542ed4a781723",
+      "title": "Tune defaults for Basic 4.3 TUNES",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/vtx/defaults.txt",
+      "hash": "f771542d93f15f993d39d97f9004ede104ba7dfebff45f68863aa25f30275388",
+      "title": "Default 4.3 VTX settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx"
+      ],
+      "author": "Betaflight",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/defaults_vtx_tables.txt",
+      "hash": "ca7751007ea115e4aef9cfc8051832205100ab4d0be45b9694d506f193cdb1d6",
+      "title": "Default 4.3 VTX table settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "clear",
+        "vtx",
+        "vtxtable"
+      ],
+      "author": "Betaflight",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/diatone_mamba_ultra_1000.txt",
+      "hash": "f058b040995b0054977e5a70298cc26b699ea7c64d825e55fbf55905b3aac74e",
+      "title": "Diatone Mamba Ultra 1000 VTX Tables",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "diatone",
+        "mamba",
+        "ultra",
+        "ultra 1000"
+      ],
+      "author": "NemesisXB",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/Eachine_Nano_V2.txt",
+      "hash": "501c014c05fd0d9b46c0cab00c6dc9edabee5dfb89ce8e2e5a9bdda03778c93b",
+      "title": "Eachine Nano V2 VTX Table",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "eachine",
+        "Eachine",
+        "nano",
+        "Nano",
+        "irc",
+        "IRC",
+        "tramp",
+        "TRAMP",
+        "Tramp",
+        "IRC Tramp",
+        "irc tramp",
+        "IRC TRAMP"
+      ],
+      "author": "MrAlucardDante",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/gabruzzz_HDZERO_vtx_pitmode.txt",
+      "hash": "a1f8ec8352cdb09752db08acd25ea19a2aaf2e8b313acf1079a1d7ae9251fb6f",
+      "title": "gabruzzz HDZ powerdown switch",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "VTX"
+      ],
+      "author": "gabruzzz",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/HDZero_race2.txt",
+      "hash": "0f0b8f7a8bfe4c48fe1897e58c3de4977a45550b4316aa856be00ffe97e0061a",
+      "title": "HDZero race 2",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "HDzero",
+        "divimath",
+        "shark bite",
+        "SA 2.1"
+      ],
+      "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/NanoHawk.txt",
+      "hash": "86e37f00a44c33cca95989a0ce78735c12744dbe230a373278aca86b3c159b19",
+      "title": "Emax NanoHawk 1S SmartAudio 2.0 VTX table",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "nanohawk",
+        "emax",
+        "smartaudio",
+        "sa",
+        "sa20",
+        "sa2.0"
+      ],
+      "author": "Sjoer van der Ploeg",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/OpenVTx.txt",
+      "hash": "1cbb15ca60cd1392001158a2c73857d7b1481255c09723dcdf1d037bc1edb5fe",
+      "title": "OpenVTx",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "OpenVTx",
+        "TRAMP",
+        "SA 2.1",
+        "E7082VM",
+        "OVX300",
+        "OVX303",
+        "OP400"
+      ],
+      "author": "Jye Smith",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/Rush Race 2.txt",
+      "hash": "afcb5f41670a2e82c6ee5aeb782c9725a2ee0b4cf572cb6df4c79a9f698ff46e",
+      "title": "Rush Race 2 VTX Tables",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "VTX",
+        "VTX Tables",
+        "Rush",
+        "race"
+      ],
+      "author": "gabruzzz",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/rush_sa2.1_vtx_tables.txt",
+      "hash": "22aadeaaf187206e8e33fe426586de11dcfb1ea0ef3e56850ff9aabd37078b14",
+      "title": "Rush Tiny Tank, Tank Racing, Tank Ultimate Plus/Mini/II, and Tank Solo VTX tables",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "rush tank",
+        "rush",
+        "rushfpv",
+        "tank ultimate",
+        "tank solo",
+        "tiny tank"
+      ],
+      "author": "Directory",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/speedybee_tx800.txt",
+      "hash": "6fc6fff69555a43b7fb37943479e868403cd571549ea6b4d905c0d633f5968ee",
+      "title": "SpeedyBee TX800 VTX Tables",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "speedybee",
+        "tx800"
+      ],
+      "author": "NemesisXB",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/tramp_nano_and_HV.txt",
+      "hash": "0a496b6215aae4a72cbe0c1c1a3bc5d225609ebf25318c428abd6ad383e9bcfe",
+      "title": "IRC Tramp Nano and HV",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "IRC",
+        "tramp",
+        "HV",
+        "nano"
+      ],
+      "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/Unify_EVO_5G8_HV_SA.txt",
+      "hash": "1065525a75ef9c3c4d5adff000011c2e65a13aab8cac5755dae5571fd3faa605",
+      "title": "TBS Unify EVO 5G8 (HV) - SA 2.1",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "tbs",
+        "unify",
+        "pro32",
+        "HV",
+        "SA 2.1",
+        "EVO"
+      ],
+      "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/Unify_Pro32_HV_SA2_1.txt",
+      "hash": "c7bb36ac2e9d27f3caae5ffaeae2f16c7e431ff8ea36f13a2a2c15794e7442e5",
+      "title": "TBS Unify Pro32 HV SA 2.1",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "tbs",
+        "unify",
+        "pro32",
+        "HV",
+        "SA 2.1"
+      ],
+      "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/Unify_Pro32_Nano_SA2_1.txt",
+      "hash": "d0ba39e4ac3552a2f52aad85abc010cae1cc799e33adc192acd26cf704bac62f",
+      "title": "TBS Unify Pro32 Nano - SA 2.1",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "tbs",
+        "unify",
+        "pro32",
+        "nano",
+        "SA 2.1"
+      ],
+      "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/Unify_Pro_HV_800mw_Unify_Pro_V3_SA_2_0.txt",
+      "hash": "0c01584517d2c091c6331570f4cb3270841a831ae794bf2cb7bf6db9d58e12a9",
+      "title": "TBS Unify Pro HV 800mw / TBS Unify Pro V3 (5v) SA 2.0",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "tbs",
+        "unify pro",
+        "HV",
+        "SA 2.0"
+      ],
+      "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/Unify_Pro_HV_Race_Not_Race_V2_SA2_0.txt",
+      "hash": "5eca61072af03cbd13c0b00e6a44e72a2348d72e5f7067df0bb8a44905cf616d",
+      "title": "TBS Unify Pro HV Race (Not Race V2) SA 2.0",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "tbs",
+        "unify pro",
+        "HV",
+        "SA 2.0"
+      ],
+      "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/Unify_Pro_HV_Race_V2 _SA2_1.txt",
+      "hash": "258d45b78ab26c8882e81bd1525b5d2169189936c952268a702c887e34d7ec10",
+      "title": "TBS Unify Pro HV Race (Not Race V2) - SA 2.0",
+      "firmware_version": [
+        "4.2",
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "tbs",
+        "unify pro",
+        "HV",
+        "SA 2.0"
+      ],
+      "author": "sugarK",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/Unify_Pro_Nano_SA2_0_lite.txt",
       "hash": "40ad77766336eca6fb8070e8731678ec29f9cf964cfeb2833de9a2d1f1e1e75d",
       "title": "TBS Unify Pro Nano (Not Pro32 Nano) SA 2.0 lite",
       "firmware_version": [
