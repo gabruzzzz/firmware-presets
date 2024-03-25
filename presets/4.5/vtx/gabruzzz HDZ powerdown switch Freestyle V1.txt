@@ -1,4 +1,4 @@
-#$ TITLE: gabruzzz HDZ powerdown switch Race V3
+#$ TITLE: gabruzzz HDZ powerdown switch Freestyle V1
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: VTX
 #$ STATUS: EXPERIMENTAL
@@ -6,7 +6,6 @@
 #$ AUTHOR: gabruzzz
 
 # vtx
-vtx 0 2 0 0 2 1700 2100
+vtx 0 2 0 0 5 1700 2100
 vtx 1 2 0 0 1 1300 1700
-vtx 2 2 0 0 1 900 1300
-
+vtx 2 2 0 0 4 900 1300

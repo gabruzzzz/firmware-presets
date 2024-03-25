@@ -2427,9 +2427,24 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.5/vtx/gabruzzz HDZ powerdown switch Freestyle V1.txt",
+      "hash": "aa9a842a31cce570c6bee9c6c5a0f79f9879d65268095c51f0a484caada5ea43",
+      "title": "gabruzzz HDZ powerdown switch Freestyle V1",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "VTX"
+      ],
+      "author": "gabruzzz",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.5/vtx/gabruzzz_HDZERO_vtx_pitmode.txt",
-      "hash": "a1f8ec8352cdb09752db08acd25ea19a2aaf2e8b313acf1079a1d7ae9251fb6f",
-      "title": "gabruzzz HDZ powerdown switch",
+      "hash": "dc30a9dd184c8ed46203f0129b5bcccd7eec31fe0a23ccfa4f4169020c714170",
+      "title": "gabruzzz HDZ powerdown switch Race V3",
       "firmware_version": [
         "4.5"
       ],
