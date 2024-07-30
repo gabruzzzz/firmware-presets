@@ -2018,6 +2018,22 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/osd/gabruzzz hdzero osd.txt",
+      "hash": "1c463355b9e2a50f734cbaf744fb11af4df19a9a84ed29dda0527ec48fa8617d",
+      "title": "gabruzzz HDZERO OSD",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "OSD",
+        "HDZERO"
+      ],
+      "author": "gabruzzz",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/osd/gabruzzz osd tinywhoop.txt",
       "hash": "b1c53deacc57bf8f2e50b5acb6c033f73886db26fc10967ed38f39afd410eee1",
       "title": "gabruzzz Tinywhoop OSD",
